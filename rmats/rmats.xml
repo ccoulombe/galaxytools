@@ -13,7 +13,7 @@
         rmats.py 
         --b1 b1.txt
         #if $b2
-          --b1 b1.txt
+          --b2 b2.txt
         #end if
         --gtf '$gtf'
         #if $novel.novelSS == 'yes'
